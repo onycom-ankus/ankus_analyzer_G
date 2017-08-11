@@ -1,6 +1,9 @@
-# ankus_analyzer_G ver 1.0 # ldbslovis@onycom.com created 20170811
-ankus_analyzer_G (ankus analyzer Goverment version)
-
+###########################################################################
+# This is readme.rnd file 
+# ankus analyzer G 1.0 (ankus_analyzer_G ver 1.0) 
+# ldbslovis@onycom.com created 20170811
+# ankus_analyzer_G (ankus analyzer Goverment version)
+###########################################################################
 
 relation opensource list
 
