@@ -41,5 +41,5 @@ relation opensource list
  
  checked by http://www.oss.kr 20170727 
  
- so ankus analyzer G ver 1.0 GPL 3.0
+ ankus analyzer G ver 1.0 GPL 3.0
  
