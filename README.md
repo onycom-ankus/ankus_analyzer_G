@@ -1,12 +1,12 @@
-###########################################################################
-This is readme.rnd file
-ankus analyzer G 1.0 (ankus analyzer G Bersion 1.0) 
-ldbslovis@onycom.com created 20170811
-ankus analyzer G (ankus analyzer Goverment Version)
-http://openankus.com
-http://onycom.com
-ONYCOM INC.
-###########################################################################
+########################################################################### <br>
+This is readme.rnd file <br>
+ankus analyzer G 1.0 (ankus analyzer G Bersion 1.0)  <br>
+ldbslovis@onycom.com created 20170811  <br>
+ankus analyzer G (ankus analyzer Goverment Version) <br>
+http://openankus.com <br>
+http://onycom.com <br>
+ONYCOM INC. <br>
+########################################################################### <br>
 
 relation opensource list and include license
 
