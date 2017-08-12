@@ -1,31 +1,12 @@
-Theano (current directory) is the distribution directory.
-    * Theano/theano contains the package
-    * Theano/theano has several submodules:
-        * gof + compile are the core
-        * scalar depends upon core
-        * tensor depends upon scalar
-        * sparse depends upon tensor
-        * sandbox can depend on everything else
-    * Theano/examples are copies of the example found on the wiki
-    * Theano/benchmark and Theano/examples are in the distribution, but not in
-      the Python package
-    * Theano/bin contains executable scripts that are copied to the bin folder
-      when the Python package is installed
-    * Tests are distributed and are part of the package, i.e. fall in
-      the appropriate submodules
-    * Theano/doc contains files and scripts used to generate the documentation
-    * Theano/html is where the documentation will be generated
-
 ###########################################################################
-# This is readme.rnd file 
-# ankus analyzer G 1.0 (ankus_analyzer_G ver 1.0) 
-# ldbslovis@onycom.com created 20170811
-# ankus_analyzer_G (ankus analyzer Goverment version)
-# http://openankus.com
-# http://onycom.com
-# ONYCOM INC.
+This is readme.rnd file
+ankus analyzer G 1.0 (ankus analyzer G Bersion 1.0) 
+ldbslovis@onycom.com created 20170811
+ankus analyzer G (ankus analyzer Goverment Version)
+http://openankus.com
+http://onycom.com
+ONYCOM INC.
 ###########################################################################
-
 
 relation opensource list and include license
 
