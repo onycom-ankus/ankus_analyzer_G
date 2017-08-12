@@ -1,11 +1,16 @@
+
 ###########################################################################
 # This is readme.rnd file 
 # ankus analyzer G 1.0 (ankus_analyzer_G ver 1.0) 
 # ldbslovis@onycom.com created 20170811
 # ankus_analyzer_G (ankus analyzer Goverment version)
+# http://openankus.com
+# http://onycom.com
+# ONYCOM INC.
 ###########################################################################
 
-relation opensource list
+
+relation opensource list and include license
 
  Common IO                            Apache License 2.0 <br>
  JGlobus                              Apache License 2.0 <br>
