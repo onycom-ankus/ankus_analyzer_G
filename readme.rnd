@@ -17,59 +17,58 @@
 
 relation opensource software(and library) list and include license
 
- Apache Oozie                         http://oozie.apache.org                             Apache License 2.0 
- sigar ver 1.6.4                      http://repo1.maven.org/maven2/org/fusesource/sigar/ Apache License 2.0 
- sigar                                http://github.com/hyperic/sigar/                    Apache License 2.0 
- jQuery-contextMenu                   http://github.com/mediaize/jQuery-contextMenu/      MIT License 
- Apache Giraph                        http://giraph.apache.org                            Apache License 2.0 
- financetong                          http://code.google.com/p/finacetong                 Apache License 2.0 
- Apache Commons Exec ver 1.1          http://commons.aoache.org/exec                      Apache License 2.0 
- bootstrap ver 1.2.0                  http://www.npmjs.org/package/bootstrap-tree         Apache License 2.0 
- Apache Log4j - log4j:log4j           http://logging.apache.org/log4/2.x/                 Apache License 2.0 
- CodeMirror                           http://nuget.org/packages/CodeMirror                MIT License 
- jQuery.Form                          http://github.com/malsup/form/                      MIT License 
- # athena-chamieon                    http://github.com/OpenSourceConsulting/athena-chameleon   Unspectified 
- jQuery UI Layout ver 1.4.4           http://layout.jquery-dev.net                        MIT License 
- Raphael JavaScript Library           http://raphaeljs.com                                MIT License 
- GNU General Public License ver 3.0 or later http://gplv3.fsf.org                         GNI General Public License v 3.0 or later 
- save-svg-as-png ver 1.0.0            http://npmjs.org/package/save-svg-as-png            MIT License 
- google-code-prettify                 http://code.google.com/p/google-code-prettify       Apache License 2.0 
- Booststrap ver 3.3.7                 http://github.com/twbs/bootstrap                    MIT License 
- nvd3 ver 1.8.4                       http://www.nomjs.org/package/nvd3                   Apache License 2.0
- JGlobus                              http://github.com/jglobus/ JGlobus                  Apache License 2.0
- azkaban                              http://github.com/azkaban/azkaban/                  Apache License 2.0 
- Spring Framework                     http://projects.spring.io/spring-framework          Apache License 2.0 
- jsrender                             http://github.com/BorisMo ore/jsrender              MIT License 
- d3_rails                             http://github.com/logical4 2/d3_rails               BSD 3-clause "New" or "Revised" License 
- jquery - jquery/jquery ver 1.7.2     http://github.com/jquery/jquery/                    MIT License 
- # delete Natural Docs                http://www.naturaldocs.org                          GNU Affero General Public License v3.0 
- notification                         http://www.eirik.net/Ext/ux/window/Notification.html MIT License 
- Apache Mahout                        http://mahout.apache.org                            Apache License 2.0 
- bootstrap-datepicker                 http://github.com/ZekeLu/bootstrap-datepicker/      Apache License 2.0
- Giraph                               http://giraph.apache.org                            Apache License 2.0 
- ANSIColorLayout                      http://github.com/eckardjf/ANSIColorLayout/         GNU General Public License v3.0 or later 
- Apache Commons Exec                  http://commons.apache.o rg/exec/                    Apache License 2.0 
- jQuery-contextM enu ver 1.5.25       http://github.com/medialize/jQuery-contextMenu/     MIT License Snippet 
- d3-cloud                             http://github.com/rajenms/d3-cloud/                 BSD 3-clause "New" or "Revised" License 
- bootstrap-datepi                     http://github.com/kbrs/bo otstrap-datepicker/       Apache License 2.0 
- jsTree                               http://jstree.com                                   MIT License 
- jquery-i18n-pro perties              http://github.com/jquery-i18n-properties/jquery-i18n-properties/ MIT License 
- mzExt master-2 0121119               http://github.com/ateodorescu/mzExt/                MIT License 
- d3ify ver 3.5.17                     https://www.npmjs.org/package/d3                    BSD 3-clause "New" or "Revised" License 
- Quartz Enterprise Job Scheduler      http://quartz-scheduler.org/                        Apache License 2.0 
- Ext.ux.SimpleIFrame                                                                      GNU Lesser General Public License 
- free-jqgrid                          https://www.npmjs.org/package/free-jqgrid           MIT License 
- nvd3                                 https://www.npmjs.org/package/nvd3                  Apache License 2.0 
- Apache Commons Lang                  http://commons.apache.o rg/proper/commons-lang/     Apache License 2.0 
- Apache Log4j -log4j:log4j 1.2.5 (2)  http://logging.apache.org/log4j/1.2/                Apache License 1.1 
- jQuery UI -jquery/jquery-ui on GitHub http://jqueryui.com                                MIT License 
- Commons IO                           https://maven.repository.redhat.com/ga/commons-io/commons-io/ Apache License 2.0 
- jquery-validation                    http://www.nuget.org/packages/jQuery.Validation    MIT License 
- hdfs-file-slurper                    http://github.com/alexholmes/hdfs-file-slurper/    Apache License 2.0 
- bootstrap-treeview                   http://github.com/jonmiles/bootstrap-treeview/     Apache License 2.0 
- jQuery UI Layout ver 1.4.3           http://layout.jquery-dev.net                       MIT License 
+ Apache Oozie       http://oozie.apache.org                                 Apache License 2.0 
+ sigar ver 1.6.4    http://repo1.maven.org/maven2/org/fusesource/sigar/     Apache License 2.0 
+ sigar              http://github.com/hyperic/sigar/                        Apache License 2.0 
+ jQuery-contextMenu http://github.com/mediaize/jQuery-contextMenu/          MIT License 
+ Apache Giraph      http://giraph.apache.org                                Apache License 2.0 
+ financetong        http://code.google.com/p/finacetong                     Apache License 2.0 
+ Apache Commons Exec ver 1.1     http://commons.aoache.org/exec             Apache License 2.0 
+ bootstrap ver 1.2.0 http://www.npmjs.org/package/bootstrap-tree            Apache License 2.0 
+ Apache Log4j -log4j:log4j http://logging.apache.org/log4/2.x/              Apache License 2.0 
+ CodeMirror         http://nuget.org/packages/CodeMirror                    MIT License 
+ jQuery.Form        http://github.com/malsup/form/                          MIT License 
+ # athena-chamieon  http://github.com/OpenSourceConsulting/athena-chameleon Unspectified 
+ jQuery UI Layout ver 1.4.4 http://layout.jquery-dev.net                    MIT License 
+ Raphael JavaScript Library http://raphaeljs.com                            MIT License 
+ GNU General Public License ver 3.0 or later http://gplv3.fsf.org           GNI General Public License v 3.0 or later 
+ save-svg-as-png ver 1.0.0 http://npmjs.org/package/save-svg-as-png         MIT License 
+ google-code-prettify http://code.google.com/p/google-code-prettify         Apache License 2.0 
+ Booststrap ver 3.3.7 http://github.com/twbs/bootstrap                      MIT License 
+ nvd3 ver 1.8.4     http://www.nomjs.org/package/nvd3                       Apache License 2.0
+ JGlobus            http://github.com/jglobus/JGlobus                       Apache License 2.0
+ azkaban            http://github.com/azkaban/azkaban/                      Apache License 2.0 
+ Spring Framework   http://projects.spring.io/spring-framework              Apache License 2.0 
+ jsrender           http://github.com/BorisMore/jsrender                    MIT License 
+ d3_rails           http://github.com/logical42/d3_rails                    BSD 3-clause "New" or "Revised" License 
+ jquery -jquery/jquery ver 1.7.2 http://github.com/jquery/jquery/           MIT License 
+ # delete Natural Docs http://www.naturaldocs.org                           GNU Affero General Public License v3.0 
+ notification       http://www.eirik.net/Ext/ux/window/Notification.html    MIT License 
+ Apache Mahout      http://mahout.apache.org                                Apache License 2.0 
+ bootstrap-datepicker http://github.com/ZekeLu/bootstrap-datepicker/        Apache License 2.0
+ Giraph             http://giraph.apache.org                                Apache License 2.0 
+ ANSIColorLayout    http://github.com/eckardjf/ANSIColorLayout/             GNU General Public License v3.0 or later 
+ Apache Commons Exec http://commons.apache.org/exec/                        Apache License 2.0 
+ jQuery-contextM enu ver 1.5.25 http://github.com/medialize/jQuery-contextMenu/ MIT License  
+ d3-cloud           http://github.com/rajenms/d3-cloud/                     BSD 3-clause "New" or "Revised" License 
+ bootstrap-datepi   http://github.com/kbrs/bootstrap-datepicker/            Apache License 2.0 
+ jsTree             http://jstree.com                                       MIT License 
+ jquery-i18n-pro perties http://github.com/jquery-i18n-properties/jquery-i18n-properties/ MIT License 
+ mzExt master-2 0121119  http://github.com/ateodorescu/mzExt/               MIT License 
+ d3ify ver 3.5.17   https://www.npmjs.org/package/d3                        BSD 3-clause "New" or "Revised" License 
+ Quartz Enterprise Job Scheduler http://quartz-scheduler.org/               Apache License 2.0 
+ Ext.ux.SimpleIFrame                                                        GNU Lesser General Public License 
+ free-jqgrid        https://www.npmjs.org/package/free-jqgrid               MIT License 
+ nvd3               https://www.npmjs.org/package/nvd3                      Apache License 2.0 
+ Apache Commons Lang http://commons.apache.org/proper/commons-lang/         Apache License 2.0 
+ Apache Log4j -log4j:log4j 1.2.5 (2) http://logging.apache.org/log4j/1.2/   Apache License 1.1 
+ jQuery UI -jquery/jquery-ui on GitHub http://jqueryui.com                  MIT License 
+ Commons IO         https://maven.repository.redhat.com/ga/commons-io/commons-io/ Apache License 2.0 
+ jquery-validation  http://www.nuget.org/packages/jQuery.Validation         MIT License 
+ hdfs-file-slurper  http://github.com/alexholmes/hdfs-file-slurper/         Apache License 2.0 
+ bootstrap-treeview http://github.com/jonmiles/bootstrap-treeview/          Apache License 2.0 
+ jQuery UI Layout ver 1.4.3 http://layout.jquery-dev.net                    MIT License 
  
  checked by http://www.oss.kr 20170727 
  
  ankus analyzer G 1.0 GPL 3.0
- 
