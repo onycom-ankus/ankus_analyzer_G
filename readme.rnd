@@ -42,7 +42,7 @@ relation opensource software(and library) list and include license
  jsrender                             http://github.com/BorisMo ore/jsrender              MIT License 
  d3_rails                             http://github.com/logical4 2/d3_rails               BSD 3-clause "New" or "Revised" License 
  jquery - jquery/jquery ver 1.7.2     http://github.com/jquery/jquery/                    MIT License 
- # delete Natural Docs                       http://www.naturaldocs.org                   GNU Affero General Public License v3.0 
+ # delete Natural Docs                http://www.naturaldocs.org                          GNU Affero General Public License v3.0 
  notification                         http://www.eirik.net/Ext/ux/window/Notification.html MIT License 
  Apache Mahout                        http://mahout.apache.org                            Apache License 2.0 
  bootstrap-datepicker                 http://github.com/ZekeLu/bootstrap-datepicker/      Apache License 2.0
@@ -61,12 +61,12 @@ relation opensource software(and library) list and include license
  free-jqgrid                          https://www.npmjs.org/package/free-jqgrid           MIT License 
  nvd3                                 https://www.npmjs.org/package/nvd3                  Apache License 2.0 
  Apache Commons Lang                  http://commons.apache.o rg/proper/commons-lang/     Apache License 2.0 
- Apache Log4j -log4j:log4j 1.2.5 (2)  http://logging.apache.org/ log4j/1.2/               Apache License 1.1 
- jQuery UI -jquery/jquery-ui on GitHub  http://jqueryui.com                               MIT License 
+ Apache Log4j -log4j:log4j 1.2.5 (2)  http://logging.apache.org/log4j/1.2/                Apache License 1.1 
+ jQuery UI -jquery/jquery-ui on GitHub http://jqueryui.com                                MIT License 
  Commons IO                           https://maven.repository.redhat.com/ga/commons-io/commons-io/ Apache License 2.0 
- jquery-validation                    http://www.nuget.org/pack ages/jQuery.Validation    MIT License 
- hdfs-file-slurper                    http://github.com/alexhol mes/hdfs-file-slurper/    Apache License 2.0 
- bootstrap-treeview                   http://github.com/jonmiles /bootstrap-treeview/     Apache License 2.0 
+ jquery-validation                    http://www.nuget.org/packages/jQuery.Validation    MIT License 
+ hdfs-file-slurper                    http://github.com/alexholmes/hdfs-file-slurper/    Apache License 2.0 
+ bootstrap-treeview                   http://github.com/jonmiles/bootstrap-treeview/     Apache License 2.0 
  jQuery UI Layout ver 1.4.3           http://layout.jquery-dev.net                       MIT License 
  
  checked by http://www.oss.kr 20170727 
