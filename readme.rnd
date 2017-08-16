@@ -19,7 +19,7 @@ relation opensource software(and library) list and include license
 
  Apache Oozie                         http://oozie.apache.org                             Apache License 2.0 
  sigar ver 1.6.4                      http://repo1.maven.org/maven2/org/fusesource/sigar/ Apache License 2.0 
- sigar                                http://github.com/hyperic/sigar/                    Apache License 2.0 <
+ sigar                                http://github.com/hyperic/sigar/                    Apache License 2.0 
  jQuery-contextMenu                   http://github.com/mediaize/jQuery-contextMenu/      MIT License 
  Apache Giraph                        http://giraph.apache.org                            Apache License 2.0 
  financetong                          http://code.google.com/p/finacetong                 Apache License 2.0 
